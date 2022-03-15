@@ -1,4 +1,4 @@
 # Personal-Website
-Get to know about me
+Get to know me
 
 My website link: https://huynguyenuta.github.io/
