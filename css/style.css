@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+    display:flex;
+    flex-direction: column;
+}
+img{
+    width: 300px;
+    height: 300px;
+    justify-content: flex-start
+}
+#educationTitle{
+    align-content: flex-end;
+}
+h1{
+    color: black;
+}
