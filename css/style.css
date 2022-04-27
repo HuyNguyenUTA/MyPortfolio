@@ -1,7 +1,5 @@
 body{
     background-color: bisque;
-    display:flex;
-    flex-direction: column;
 }
 img{
     width: 300px;
