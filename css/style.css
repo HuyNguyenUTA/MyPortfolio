@@ -1,17 +1,24 @@
 body{
     background-color: #EAF6F6;
 }
+hr{
+    border-color: gray;
+    border-style: dotted none none none;
+    border-width: 5px;
+    width: 10%;
+}
 img{
     width: 300px;
     height: 300px;
-    justify-content: flex-start
-}
-#educationTitle{
-    align-content: flex-end;
 }
 h1{
+    font-family: cursive, fantasy, san-serif;
     color: #66bfbf;
+    font-size: 60px;
 }
 h3{
     color: #66bfbf;
+}
+p{
+    font-family: san-serif;
 }
