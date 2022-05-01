@@ -4,6 +4,9 @@ body {
 .top-container{
     background-color: #E4F9F5;
 }
+.middle-container{
+    background-color: bisque;
+}
 h1 {
     display: flex;
     margin-top: 0px;
@@ -31,4 +34,10 @@ p{
 .mountain-div{
     display: flex;
     justify-content: center;
+}
+.title{
+    margin-top: 0px;
+}
+.uta-image{
+    height: 500px;
 }
