@@ -6,6 +6,7 @@ body {
 }
 .middle-container{
     background-color: bisque;
+    height: 2000px;
 }
 h1 {
     display: flex;
@@ -36,8 +37,25 @@ p{
     justify-content: center;
 }
 .title{
-    margin-top: 0px;
+    margin: 0px;
+}
+.uta-title{
+    margin: 0px
 }
 .uta-image{
+    height: 300px;
+    border-radius: 20px;
+}
+.education-section{
+    display: flex;
     height: 500px;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+hr{
+    border-color: gray;
+    border-style: dotted none none none;
+    border-width: 5px;
+    width: 10%;
 }
