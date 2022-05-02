@@ -87,7 +87,7 @@ hr{
 .project-div{
     width: 800px;
     height: 300px;
-    border: 4mm ridge #D7A86E;
+    border: 4mm ridge black;
     border-radius: 30px;
 }
 .project{
@@ -96,7 +96,7 @@ hr{
     justify-content: space-evenly;
 }
 .project-div:hover{
-    border: 4mm ridge black;
+    border: 4mm ridge white;
 }
 .project-title{
     padding-left: 40px;
