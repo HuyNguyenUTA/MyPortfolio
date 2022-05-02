@@ -25,9 +25,13 @@ h2{
 h3{
     font-family: 'Monserrat', sans-serif;
 }
+p{
+    padding-bottom: 0px;
+}
 #aaa {
     display: flex;
     justify-content: center;
+    font-size: 2em;
 }
 .pro{
     text-decoration: underline;
