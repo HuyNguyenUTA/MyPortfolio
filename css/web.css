@@ -100,4 +100,9 @@ hr{
 .project-link{
     padding-left: 40px;
     margin-top: 20px;
+    text-decoration: none;
+    color: #112B3C;
+}
+a:hover{
+    text-decoration: underline;
 }
