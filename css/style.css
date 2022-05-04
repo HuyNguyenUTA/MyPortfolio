@@ -59,7 +59,7 @@ p{
 }
 .title{
     margin: 0px;
-    font-size: 2em;
+    font-size: 2.5em;
 }
 .uta-title{
     margin: 0px;
@@ -94,8 +94,8 @@ hr{
 }
 .project-div{
     display:flex;
-    width: 50%;
-    height: 22%;
+    width: 60%;
+    height: 25%;
     border: 4mm ridge black;
     border-radius: 30px;
     align-items: center;
@@ -111,6 +111,7 @@ hr{
 .project-title{
     margin-top: 0px;
     padding-left: 40px;
+    font-size: 25px;
 }
 .project-date {
     padding-left: 40px;
@@ -132,4 +133,6 @@ a:hover{
 }
 li{
     font-family: 'Merriweather', serif;
+    font-size: 20px;
+    margin-right: 40px;
 }
