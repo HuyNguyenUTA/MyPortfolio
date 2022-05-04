@@ -130,3 +130,6 @@ a:hover{
     text-decoration: none;
     color: white;
 }
+li{
+    font-family: 'Merriweather', serif;
+}
